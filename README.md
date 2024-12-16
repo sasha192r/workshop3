@@ -1,7 +1,7 @@
 # Баланс в играх - Идеальный баланс
 Отчет по лабораторной работе #3 выполнил(а):
-- Сидоров Степан Павлович
-- РИ-230930
+- Маврин Александр Андреевич
+- НМТ-232513
 
 | Задание | Выполнение | Баллы |
 | ------ | ------ | ------ |
@@ -93,7 +93,7 @@ if __name__ == "__main__":
 
 ```
 ## Таблица 
-[![image]([https://github.com/user-attachments/assets/242b1a75-c09a-4af5-955f-286271876aad])](https://github.com/sasha192r/workshop3/blob/main/1324.png)
+![image](https://github.com/user-attachments/assets/242b1a75-c09a-4af5-955f-286271876aad)
 Ссылка на таблицу: [https://docs.google.com/spreadsheets/d/1GmpemND9ZYDorn7ckyxHTwsnB5gb_BmIGuvw1UWP2JA/edit?usp=sharing](https://docs.google.com/spreadsheets/d/1rtkJyDXb62VLfJXMdxZI8IFM6chAppjtJI02RCoCD0M/edit?gid=0#gid=0)
 
 ### №2 Создайте 10 сцен на Unity с изменяющимся уровнем сложности.
